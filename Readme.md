@@ -1,1 +1,1 @@
-# welcome to mern dproject
+# welcome to mern project
